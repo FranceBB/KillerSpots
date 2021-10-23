@@ -1,5 +1,5 @@
 # KillerSpots
-Spot removal function for Avisynth based on Didée idea from 2010 that makes use of MVTools analysis and RemoveDirt to detect and clean up spots with adiacent pixels.
+Spot removal function for Avisynth based on Didée's idea from 2010 that makes use of MVTools analysis and RemoveDirt to detect and clean up spots with adiacent pixels.
 <br>
 All credits to Didée, GMJCZP and John Meyer.
 
